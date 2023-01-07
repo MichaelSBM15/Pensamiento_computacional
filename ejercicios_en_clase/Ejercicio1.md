@@ -26,3 +26,15 @@ Ejercicio que calcula el tiempo que tardariamos en leer a toda la población mun
 		Escribir "Te tardarías ",añoss," años en leer los nombres de la ",población," POBLACIÓN DEL MUNDO"
 
 	FinAlgoritmo
+
+
+Algoritmo Edad
+	edades<-0
+	Escribir "ingresa_tú_edad"
+	Leer edades
+	Si edades >= 18 Entonces
+		Escribir "mayor de edad"
+	SiNo
+		Escribir "menor de edad"
+	Fin Si
+FinAlgoritmo
