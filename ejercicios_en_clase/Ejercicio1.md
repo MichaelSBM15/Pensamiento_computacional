@@ -27,18 +27,45 @@ Ejercicio que calcula el tiempo que tardariamos en leer a toda la población mun
 
 	FinAlgoritmo
 
-## ALGORITMO EDAD
-Algoritmo Edad	
-	edades<-0
-	Escribir "ingresa tú edad"
-	Leer edades
-	Si edades < 120 y edades > 0 Entonces
-		Si edades >= 18 Entonces
-			Escribir "mayor de edad"
-		SiNo
-			Escribir "menor de edad"
-		Fin Si
+# ALGORITMO EDAD
+		Algoritmo ParImpar
+	num<-0
+	Escribir "Por favor ingrese un número"
+	Leer num
+	Si num MOD 2==0 Entonces
+		Escribir "El número es par"
 	SiNo
-		escribir "Verificar la edad"
+		Escribir "El número no es par"
+	Fin Si
+	
+FinAlgoritmo
+
+## ALGORITMO PARIMPAR
+
+Algoritmo ParImpar
+	num<-0
+	Escribir "Por favor ingrese un número"
+	Leer num
+	Si num MOD 2==0 Entonces
+		Escribir "El número es par"
+	SiNo
+		Escribir "El número no es par"
+	Fin Si
+	
+FinAlgoritmo
+
+Algoritmo Mayort
+	Num1<-0
+	Num2<-0
+	Num3<-0
+	Escribir "Escriba por favor el primer número"
+	Leer Num1
+	Escribir "Escriba por favor el segundo número"
+	Leer Num2
+	Escribir "Escriba por favor el tercer número"
+	Si Num1 == Num2  Entonces
+		acciones_por_verdadero
+	SiNo
+		acciones_por_falso
 	Fin Si
 FinAlgoritmo
