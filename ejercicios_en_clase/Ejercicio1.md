@@ -27,14 +27,17 @@ Ejercicio que calcula el tiempo que tardariamos en leer a toda la población mun
 
 	FinAlgoritmo
 
-
 Algoritmo Edad
 	edades<-0
-	Escribir "ingresa_tú_edad"
+	Escribir "ingresa tú edad"
 	Leer edades
-	Si edades >= 18 Entonces
-		Escribir "mayor de edad"
+	Si edades < 120 y edades > 0 Entonces
+		Si edades >= 18 Entonces
+			Escribir "mayor de edad"
+		SiNo
+			Escribir "menor de edad"
+		Fin Si
 	SiNo
-		Escribir "menor de edad"
+		escribir "Verificar la edad"
 	Fin Si
 FinAlgoritmo
