@@ -27,7 +27,8 @@ Ejercicio que calcula el tiempo que tardariamos en leer a toda la población mun
 
 	FinAlgoritmo
 
-Algoritmo Edad
+## ALGORITMO EDAD
+Algoritmo Edad	
 	edades<-0
 	Escribir "ingresa tú edad"
 	Leer edades
