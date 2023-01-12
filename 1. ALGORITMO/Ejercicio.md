@@ -1,10 +1,8 @@
   ## ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
-  
-  
+ 
   ![image](https://user-images.githubusercontent.com/119713702/212162700-63583ae4-7a23-460d-a2b0-f11b8f22c0eb.png)
 
-  
-  Algoritmo Vida_Diaria
+  	Algoritmo Vida_Diaria
 	Dato1 <- garrafon_de_agua
 	Dato2 <- jarra
 	Dato3 <- vaso
@@ -15,7 +13,7 @@
 	Escribir 'Vaciar agua de la jarra hacía el vaso'
 	Leer vaso
 	Escribir 'Ingerir el agua contenida en el vaso; listo, te acabas de hidratar :)'
-FinAlgoritmo
+	FinAlgoritmo
  
     
     
