@@ -1,5 +1,5 @@
   # 1. DESARROLLA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
-  # EJERCICIO 1.
+  # EJERCICIO 1. "TOMAR AGUA".
  
   ![image](https://user-images.githubusercontent.com/119713702/212167699-791b6b26-3dc0-4feb-96da-7eb05974f629.png)
 
