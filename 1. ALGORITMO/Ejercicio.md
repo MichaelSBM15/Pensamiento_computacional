@@ -1,29 +1,27 @@
-### REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
+  ## ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
+  
+  
+  ![image](https://user-images.githubusercontent.com/119713702/212162700-63583ae4-7a23-460d-a2b0-f11b8f22c0eb.png)
 
-    TU RESPUETA AQUI
-1. INICIO
-2. LIMPIEZA PERSONAL.
-3. AGUA
-   JABON
-   SHAMPOO 
-   SACATE
-   TOALLA
-   ROPA
-4. ABRIR AL AGUA
-5. COLOCAR JABON SOBRE EL CABELLO
-6. ENJUAGAR CON AGUA
-7. COLOCAR JABON AL SACATE
-8. FROTAR SOBRE EL CUERPO
-9. ENJUAGAR CON AGUA.
-10. COLOCAR SHAMPOO SOBRE EL CABELLO.
-11. FROTAR EL SHAMPOO SOBRE EL CABELLO.
-12. ENJUAGAR CON AGUA.
-13. CERRAR AGUA.
-14. SECAR CABELLO Y CUERPO CON AGUA.
-15. COLOCAR ROPA SOBRE EL CUERPO.
-16. FIN.
-
+  
+  Algoritmo Vida_Diaria
+	Dato1 <- garrafon_de_agua
+	Dato2 <- jarra
+	Dato3 <- vaso
+	Escribir 'Tomar el Garrafon_de_agua.'
+	Leer garrafon_de_agua
+	Escribir 'Vaciar agua del garrafon_de_agua hacía la jarra'
+	Leer jarra
+	Escribir 'Vaciar agua de la jarra hacía el vaso'
+	Leer vaso
+	Escribir 'Ingerir el agua contenida en el vaso; listo, te acabas de hidratar :)'
+FinAlgoritmo
+ 
+    
+    
 ### DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
+
+
 
 1. INICIO
 2. DATOS.
