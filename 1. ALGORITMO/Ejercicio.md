@@ -33,7 +33,7 @@
 	Leer díaNacimiento, mesNacimiento, añoNacimiento
 	Edad = añoActual - añoNacimiento
 	Si mesNacimiento > mesActual entonces 
-		Edad = Edad - 1
+	Edad = Edad - 1
 	FinSi
 	Escribir Nombre_completo_de_la_persona	" su edad actual es: " Edad " años."
 	FinAlgoritmo
