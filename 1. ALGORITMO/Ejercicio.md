@@ -21,7 +21,7 @@
   
   ![image](https://user-images.githubusercontent.com/119713702/212204447-71582005-d2dc-4438-8365-3ebf4b50c996.png)
 
-    	Algoritmo Calcula_la_edad
+    Algoritmo Calcula_la_edad
 	Dato1 <- Nombre_completo_de_la_persona
 	Definir Edad, díaActual, mesActual, añoActual Como Entero
 	Definir díaNacimiento, mesNacimiento, añoNacimiento Como Entero
