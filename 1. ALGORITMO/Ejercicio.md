@@ -37,7 +37,23 @@
 	FinSi
 	Escribir Nombre_completo_de_la_persona	" su edad actual es: " Edad " años."
 	FinAlgoritmo
+	
+  # 3. REALICE UN ALGORITMO QUE RESUELVA LA SIGUIENTE SITUACIÓN: UN PRODUCTO TENÍA UN PRECIO INICIAL QUE DEBE SOLICITARSE Y AHORA TIENE UN NUEVO VALOR, MAYOR, QUE TAMBIÉN DEBERÁ PEDIRSE, DETERMINE EL PORCENTAJE DE INCREMENTO DEL PRODUCTO.
 
-###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
+  ## EJERCICIO 3. "PRODUCTO, PORCENTAJE MAYOR" :).
+  
+  ![image](https://user-images.githubusercontent.com/119713702/212222247-9d8cef5a-e6c1-42f1-8419-681e73e187a0.png)
 
-    TU RESPUESTA AQUI
+	Algoritmo Producto_Porcentaje
+	Escribir 'Escriba el nombre del producto'
+	Leer Producto
+	Escribir 'Ingresa el precio inicial:'
+	Leer precio_inicial
+	Escribir 'Ingresa el precio nuevo:'
+	Leer precio_nuevo
+	porcentaje_de_incremento <- 0
+	Si precio_inicial<precio_nuevo Entonces
+	porcentaje_de_incremento <- 100.0*(precio_nuevo-precio_inicial)/precio_inicial
+	FinSi
+	Escribir Producto 'Valor de porcentaje de incremento: ',porcentaje_de_incremento
+	FinAlgoritmo
